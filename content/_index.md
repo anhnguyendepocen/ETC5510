@@ -6,7 +6,7 @@ title: Home
 
 # ETC5510: Data Modelling and Computing
 
-
+- Materials for microcredentials
 - Preparer: Professor Di Cook (dicook@monash.edu)
 
 ## Lecture notes
