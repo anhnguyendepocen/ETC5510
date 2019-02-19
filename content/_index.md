@@ -4,47 +4,10 @@ title: Home
 
 [<img src="img/M.png" style="max-width:15%;min-width:40px;float:right;" alt="Monash Univ" />](https://monash.edu)
 
-# ETC1010: Data Modelling and Computing
+# ETC5510: Data Modelling and Computing
 
-## Final grade distribution
 
-- Class median: 74
-- IQR: 62-86
-
-Grade distribution:
-
-- HD 25
-- D 13
-- C 13
-- P 13
-
-Final marks were curved to meet Business School distribution guidelines.
-
-## Semester 2 2018
-
-- Lecturers: Professor Di Cook (dicook@monash.edu)
-- Tutors: Steph Kobakian, Mitch O'Hara-Wild, Zina Quryakos
-
-Unless your question is a personal issue or an administrative matter, please do not send us direct email. The [ED site](https://edstem.org/courses/2714/) is appropriate for questions related to the course material.
-
-## Schedule
-
-- Lectorials: Wed 11-1 (G54 - LTB Bldg 92), F 10-12 (G81 - LTB Bldg 92)
-- Note: ED is used for reading and lab exercise quizzes and assignment turn in. Only your name and email is stored in this system.
-
-## Consultation times
-
-- Zina: Tues 10:30-11:30 (Menzies W1105)
-- Mitch: Tues 12:30-1:30 (Menzies W1105)
-- Di: Thur 10:30-11:30 (Menzies E762A)
-- Steph: Thur 12:30-1:30 (Menzies W1105/W1106)
-
-## MoVE
-
-If you are enrolled in a MoVE unit and forget your laptop, or do not own one as yet, please visit the locations below to borrow a laptop for an activity or part of a day:
-Clayton: Room 2.24 - Level 2, Learning and Teaching Building. You’re required to provide proof of ID (student card or personal ID) in order to borrow a laptop. This service is open from 7.45am - 7.00pm on Monday to Friday.
-
-*Access to R is through a server. Last year we found that this was a slow way to work. The most successful approach was to have a USB stick, attach to the borrowed laptop, and install R, RStudio and all your packages on this. Use this as your working environment, with the borrowed laptop simply as the computing engine.*
+- Preparer: Professor Di Cook (dicook@monash.edu)
 
 ## Lecture notes
 
