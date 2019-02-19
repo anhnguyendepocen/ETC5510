@@ -1,4 +1,4 @@
-# Data_Modelling_and_Computing
-Materials for ETC1010, semester 1, 2018
+# ETC5510
+Materials for microcredentials
 
-# Instructors: Prof. Di Cook
+# Preparer: Prof. Di Cook
